@@ -33,4 +33,4 @@ const tileGenerator = randomTiles.at(Math.floor(Math.random() * 10));
 
 const [width, height] = Deno.args.map((x) => +x);
 
-console.log(generateTiles(width, height, tileGenerator));
+console.log(generateTiles(width, height, circle));

@@ -1,4 +1,4 @@
-export const defaultTileSet = [
+oseexport const defaultTileSet = [
   ['/ ', ' /'],
   [' \\', '\\ '],
 ];
